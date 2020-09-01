@@ -1,7 +1,8 @@
-NodeJS Timecode Emitter
+Javascript Timecode Emitter
 ===
 
 A simple class that given a start time and a framerate, will emit a `frame` event periodically.
+*(should probably work browser-side)*
 
 ## Installation
 
@@ -46,4 +47,3 @@ FRAME 00:01:08:04
   code: '03:04:47:12'
 }
 ```
-
